@@ -1,2 +1,7 @@
 # hello-world
-GitHub Essentials: Repositories, Branches, Commits, Issues and Pull Requests.
+============
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffescript (that's what I'm made of!).
+I've had tacos on themoon and find them far superior to Earth tacos.
